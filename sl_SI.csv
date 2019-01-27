@@ -422,7 +422,7 @@
 "Edit My Credit Cards","Urejanje mojih kreditnih kartic",module,Magento_Braintree
 "Credit Card Information","Informacije o kreditni kartici",module,Magento_Braintree
 "Save for later use.","Shrani za poznejšo uporabo.",module,Magento_Braintree
-"Place Order","Oddaj naročilo",module,Magento_Braintree
+"Place Order","Oddaj naročilo in plačaj",module,Magento_Braintree
 "This payment is not available","To plačilo ni na voljo",module,Magento_Braintree
 "MM","MM",module,Magento_Braintree
 "YY","YY",module,Magento_Braintree
