@@ -2147,7 +2147,7 @@
 "Edit Payment Information","Uredi informacije o plačilu",module,Magento_Paypal
 "Items in Your Shopping Cart","Elementi v vaši košarici",module,Magento_Paypal
 "Edit Shopping Cart","Posodobi košarico",module,Magento_Paypal
-"Place Order","Oddaj naročilo",module,Magento_Paypal
+"Place Order","Oddaj naročilo in plačaj",module,Magento_Paypal
 "Submitting order information...","Pošiljanje informacij o naročilu...",module,Magento_Paypal
 "Item","Element",module,Magento_Paypal
 "Price","Cena",module,Magento_Paypal
@@ -2867,7 +2867,7 @@
 "Minimum Order Total","Najmanjši skupni znesek naročila",module,Magento_Authorizenet
 "Maximum Order Total","Največji skupni znesek naročila",module,Magento_Authorizenet
 "Sort Order","Vrstni red",module,Magento_Authorizenet
-"Place Order","Oddaj naročilo",module,Magento_Authorizenet
+"Place Order","Oddaj naročilo in plačaj",module,Magento_Authorizenet
 "Unable to place order. Please try again later.","Naročila ni mogoče oddati. Prosimo, poskusite ponovno kasneje.",module,Magento_Authorizenet
 "Please correct the data sent.","Popravite poslane podatke.",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Modela vrste entitete '%1' ni mogoče najti",module,Magento_AdvancedPricingImportExport
