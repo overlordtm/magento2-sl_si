@@ -7218,7 +7218,7 @@
 "An error occurred on the server. Please try to place the order again.","Na strežniku je prišlo do napake. Prosimo, poskusite ponovno oddati naročilo.",module,Magento_Checkout
 "Unable to save shipping information. Please check input data.","Informacij o dostavi ni mogoče shraniti. Preverite vnešene podatke.",module,Magento_Checkout
 "DB exception","Izjema podatkovne baze",module,Magento_Checkout
-"We'll email you an order confirmation with details and tracking info.","Potrditev naročila s podrobnostmi in informacije sledenja vam bomo poslali po e-pošti.",module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.","Potrditev naročila s podrobnostmi in informacije sledenja vam bomo poslali po e-pošti. Prosim, da preverite tudi med nezaželeno pošto.",module,Magento_Checkout
 "Payment Transaction Failed Reminder","Opomnik neuspešne transakcije plačila",module,Magento_Checkout
 "Sign In","Prijava",module,Magento_Checkout
 "Email Address","E-poštni naslov",module,Magento_Checkout
